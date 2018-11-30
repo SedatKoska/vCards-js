@@ -298,7 +298,7 @@ var vCard = (function () {
          * vCard version
          * @type {String}
          */
-        version: '3.0',
+        version: '4.0',
 
         /**
          * Get major version of the vCard format
